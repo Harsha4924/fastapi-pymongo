@@ -18,7 +18,7 @@ router = APIRouter()
 app.add_middleware(RateLimitMiddleware)
 app.add_middleware(LoggingMiddleware)
 
-@app.get('/products')
+@router.get('/products')
 async def get_all_products(page: int = 1,page_size: int = 10,products_collection: Collection = Depends(get_product_collection),current_user: int = Depends(oauth2.get_current_user)):
 
     skip = (page - 1) * page_size
