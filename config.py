@@ -4,7 +4,7 @@ from pymongo.server_api import ServerApi
 from pymongo.collection import Collection
 from typing import Generator
 
-uri = "mongodb+srv://checkharsha29:DMaElrs400RZjy1l@harsha.kmkra.mongodb.net/?retryWrites=true&w=majority&appName=harsha"
+uri = "mongodb+srv://checkharsha29:password@harsha.kmkra.mongodb.net/?retryWrites=true&w=majority&appName=harsha"
 
 
 

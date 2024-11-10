@@ -190,3 +190,5 @@
 2024-11-09 17:59:53,376 - Method: GET, Path: /download/672f41070be52082ed656546/microsoft, Status Code: 500, Response Time: 0.003 seconds, Client IP: 127.0.0.1
 2024-11-09 18:00:27,994 - Method: GET, Path: /download/672f3bf755afc55d0b7bb10b/Apple i14, Status Code: 200, Response Time: 0.010 seconds, Client IP: 127.0.0.1
 2024-11-09 18:01:04,240 - Method: GET, Path: /one_product/672f3fac0be52082ed656543, Status Code: 200, Response Time: 0.928 seconds, Client IP: 127.0.0.1
+2024-11-09 18:24:32,582 - Method: POST, Path: /login, Status Code: 200, Response Time: 2.450 seconds, Client IP: 127.0.0.1
+2024-11-09 18:25:17,021 - Method: GET, Path: /products, Status Code: 200, Response Time: 1.714 seconds, Client IP: 127.0.0.1
